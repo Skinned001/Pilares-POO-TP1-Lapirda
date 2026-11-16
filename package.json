@@ -1,0 +1,17 @@
+{
+  "name": "4-pilares-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+"scripts": {
+  "ej1": "ts-node ej1.ts",
+  "ej2": "ts-node ej2.ts",
+  "ej3": "ts-node ej3.ts",
+  "ej4": "ts-node ej4.ts",
+  "ej5": "ts-node ej5.ts"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
